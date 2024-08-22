@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2023 _kyle\\Final_Proj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A36041-6E78-45BA-86DF-54AEC2A01E26}|Final_Proj\\Final_Proj.csproj|D:\\2023 _kyle\\Final_Proj\\final_proj\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A36041-6E78-45BA-86DF-54AEC2A01E26}|Final_Proj\\Final_Proj.csproj|solutionrelative:final_proj\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A36041-6E78-45BA-86DF-54AEC2A01E26}|Final_Proj\\Final_Proj.csproj|D:\\2023 _kyle\\Final_Proj\\final_proj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E5A36041-6E78-45BA-86DF-54AEC2A01E26}|Final_Proj\\Final_Proj.csproj|solutionrelative:final_proj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A36041-6E78-45BA-86DF-54AEC2A01E26}|Final_Proj\\Final_Proj.csproj|d:\\2023 _kyle\\final_proj\\final_proj\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E5A36041-6E78-45BA-86DF-54AEC2A01E26}|Final_Proj\\Final_Proj.csproj|solutionrelative:final_proj\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A36041-6E78-45BA-86DF-54AEC2A01E26}|Final_Proj\\Final_Proj.csproj|D:\\2023 _kyle\\Final_Proj\\final_proj\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5A36041-6E78-45BA-86DF-54AEC2A01E26}|Final_Proj\\Final_Proj.csproj|solutionrelative:final_proj\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A36041-6E78-45BA-86DF-54AEC2A01E26}|Final_Proj\\Final_Proj.csproj|D:\\2023 _kyle\\Final_Proj\\final_proj\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5A36041-6E78-45BA-86DF-54AEC2A01E26}|Final_Proj\\Final_Proj.csproj|solutionrelative:final_proj\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A36041-6E78-45BA-86DF-54AEC2A01E26}|Final_Proj\\Final_Proj.csproj|D:\\2023 _kyle\\Final_Proj\\final_proj\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A36041-6E78-45BA-86DF-54AEC2A01E26}|Final_Proj\\Final_Proj.csproj|solutionrelative:final_proj\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A36041-6E78-45BA-86DF-54AEC2A01E26}|Final_Proj\\Final_Proj.csproj|D:\\2023 _kyle\\Final_Proj\\final_proj\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E5A36041-6E78-45BA-86DF-54AEC2A01E26}|Final_Proj\\Final_Proj.csproj|solutionrelative:final_proj\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kyle\\Desktop\\proj3\\StyleSheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2023 _kyle\\Final_Proj\\Final_Proj\\WebForm3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final_Proj\\WebForm3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebForm3.aspx",
+              "DocumentMoniker": "D:\\2023 _kyle\\Final_Proj\\Final_Proj\\WebForm3.aspx",
+              "RelativeDocumentMoniker": "Final_Proj\\WebForm3.aspx",
+              "ToolTip": "D:\\2023 _kyle\\Final_Proj\\Final_Proj\\WebForm3.aspx",
+              "RelativeToolTip": "Final_Proj\\WebForm3.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-22T16:01:01.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "D:\\2023 _kyle\\Final_Proj\\Final_Proj\\Site1.Master",
+              "RelativeDocumentMoniker": "Final_Proj\\Site1.Master",
+              "ToolTip": "D:\\2023 _kyle\\Final_Proj\\Final_Proj\\Site1.Master",
+              "RelativeToolTip": "Final_Proj\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001823|",
+              "WhenOpened": "2024-08-22T16:01:01.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\2023 _kyle\\Final_Proj\\Final_Proj\\Web.config",
+              "RelativeDocumentMoniker": "Final_Proj\\Web.config",
+              "ToolTip": "D:\\2023 _kyle\\Final_Proj\\Final_Proj\\Web.config",
+              "RelativeToolTip": "Final_Proj\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-22T16:01:01.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm2.aspx.cs",
+              "DocumentMoniker": "D:\\2023 _kyle\\Final_Proj\\Final_Proj\\WebForm2.aspx.cs",
+              "RelativeDocumentMoniker": "Final_Proj\\WebForm2.aspx.cs",
+              "ToolTip": "D:\\2023 _kyle\\Final_Proj\\Final_Proj\\WebForm2.aspx.cs",
+              "RelativeToolTip": "Final_Proj\\WebForm2.aspx.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T16:01:01.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "D:\\2023 _kyle\\Final_Proj\\Final_Proj\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "Final_Proj\\WebForm2.aspx",
+              "ToolTip": "D:\\2023 _kyle\\Final_Proj\\Final_Proj\\WebForm2.aspx",
+              "RelativeToolTip": "Final_Proj\\WebForm2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-08-22T16:01:01.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "D:\\2023 _kyle\\Final_Proj\\Final_Proj\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "Final_Proj\\WebForm1.aspx.cs",
+              "ToolTip": "D:\\2023 _kyle\\Final_Proj\\Final_Proj\\WebForm1.aspx.cs",
+              "RelativeToolTip": "Final_Proj\\WebForm1.aspx.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-08-22T16:01:01.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\2023 _kyle\\Final_Proj\\Final_Proj\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Final_Proj\\WebForm1.aspx",
+              "ToolTip": "D:\\2023 _kyle\\Final_Proj\\Final_Proj\\WebForm1.aspx",
+              "RelativeToolTip": "Final_Proj\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-08-22T16:01:01.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "D:\\2023 _kyle\\Final_Proj\\Final_Proj\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "Final_Proj\\StyleSheet1.css",
+              "ToolTip": "D:\\2023 _kyle\\Final_Proj\\Final_Proj\\StyleSheet1.css",
+              "RelativeToolTip": "Final_Proj\\StyleSheet1.css",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-22T16:01:02.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "C:\\Users\\kyle\\Desktop\\proj3\\StyleSheet1.css",
+              "ToolTip": "C:\\Users\\kyle\\Desktop\\proj3\\StyleSheet1.css",
+              "ViewState": "AQIAADwAAAAAAAAAAAAuwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2023-01-17T00:50:32.193Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
